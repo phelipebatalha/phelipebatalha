@@ -1,16 +1,21 @@
-### 👋 I'm Phelipe Henrique, Game Developer and Full-stack Web Developer👋
+👋 I'm Phelipe Henrique, Full-stack Web Developer
 
-<!--
-**phelipebatalha/phelipebatalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</hr>
 
-Here are some ideas to get you started:
+💻 Currently mastering Ruby on Rails.
+✏️ Looking forward to improve my DevOps skills.
+🤵 Seeking to improve my soft skills day after day.
+👀 Logic problems always get my attention.
+🕹️ I love playing every kind of game.
+☎️ I'm open to offers and looking for remote opportunities.
+🌎 Find and contact me around the web:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Check my LinkedIn profile.
+📫 Contact me via email.
+🛠️ Languages and Tools:
+
+                 
+
+            
+
+Most used languages
