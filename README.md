@@ -1,12 +1,12 @@
-👋 I'm Phelipe Henrique, Full-stack Web Developer
+👋 I'm Phelipe Henrique, Game Developer and future Full-stack Web Developer
 
-</hr>
 
-💻 Currently mastering Ruby on Rails.
+
+💻 Currently mastering Css and Java Script.
 ✏️ Looking forward to improve my DevOps skills.
 🤵 Seeking to improve my soft skills day after day.
-👀 Logic problems always get my attention.
-🕹️ I love playing every kind of game.
+👀 Love to lead good teams and learn new skills.
+🕹️ I love playing every kind of game (that's why I'm currently doing game development in college).
 ☎️ I'm open to offers and looking for remote opportunities.
 🌎 Find and contact me around the web:
 
@@ -15,6 +15,8 @@
 🛠️ Languages and Tools:
 
                  
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
             
 
