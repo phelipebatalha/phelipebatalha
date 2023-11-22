@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 I'm Phelipe Henrique, Game Developer and Full-stack Web Developer👋
 
 <!--
 **phelipebatalha/phelipebatalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
