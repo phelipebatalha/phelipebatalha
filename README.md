@@ -11,7 +11,7 @@
 
 <hr />
 <ul>
-  <li>💻 Currently mastering Css and Java Script.</li>
+  <li>💻 Currently mastering Css, Java Script & C#.</li>
   <li>✏️ Looking forward to improve my DevOps skills.</li>
   <li>🤵 Seeking to improve my soft skills day after day.</li>
   <li>👀 Love to lead good teams and learn new skills.</li>
