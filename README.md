@@ -43,7 +43,7 @@
 
           
 
-Most used languages
+Most used
 
  </body>
 </html>
