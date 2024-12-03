@@ -22,8 +22,10 @@
 </ul>
 
 <ul>
- <li>🔎 Check my LinkedIn profile.</li>
- <li>📫 Contact me via email.</li>
+ <li>🔎 Check my <a href= "https://www.linkedin.com/in/phelipebatalha/">LinkedIn profile</a>.</li>
+ <li>📫 Contact me via email: <a href="mailto:phelipebatalha@hotmail.com" target=”_blank”>phelipebatalha@hotmail.com</a>.</li>
+ <li>🎨 Take a look in <a href="https://www.artstation.com/phelipebatalha" target=”_blank”>Artstation</a>.</li>
+ <li>🎮 See my <a href="https://phelipebatalha.itch.io">Games</a>.</li>
  <li>🛠️ Languages and Tools:</li>
  
 </ul>
