@@ -12,7 +12,7 @@
 
 <hr />
 <ul>
-  <li>💻 Currently mastering HLSL, CG, C++, GDscript, C#.</li>
+  <li>💻 Currently mastering HLSL, CG, C++, GDscript, C#, BluePrint.</li>
   <li>✏️ Looking forward to improve my DevOps skills.</li>
   <li>🤵 Seeking to improve my soft skills day after day.</li>
   <li>👀 Love to lead good teams and learn new skills.</li>
