@@ -26,7 +26,7 @@
  <li>📫 Contact me via email: <a href="mailto:phelipebatalha@hotmail.com" target=”_blank”>phelipebatalha@hotmail.com</a>.</li>
  <li>🎨 Take a look in <a href="https://www.artstation.com/phelipebatalha" target=”_blank”>Artstation</a>.</li>
  <li>🎮 See my <a href="https://phelipebatalha.itch.io" target="_blank">Games</a>.</li>
- <li>🛠️ Languages and Tools:</li>
+ <li>🛠️ See my <a href="https://www.phelipebatalha.com" target="_blank">Portfolio</a>a>.</li>
  
 </ul>
 <hr />
