@@ -8,11 +8,11 @@
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  </head>
  <body>  
-    <h1>👋 I'm Phelipe Henrique, Game Developer and future Full-stack Web Developer </h1>
+    <h1>👋 I'm Phelipe Henrique, Game Developer and Full-stack Web Developer </h1>
 
 <hr />
 <ul>
-  <li>💻 Currently mastering HLSL, CG, C++, GDscript, C#, BluePrint.</li>
+  <li>💻 Currently mastering HLSL, CG, C++, GDscript, C#, BluePrint, Ruby on Rails and Elixir.</li>
   <li>✏️ Looking forward to improve my DevOps skills.</li>
   <li>🤵 Seeking to improve my soft skills day after day.</li>
   <li>👀 Love to lead good teams and learn new skills.</li>
