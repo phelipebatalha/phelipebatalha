@@ -1,53 +1,42 @@
-<!DOCTYPE HTML>
-<html lang="en">
- <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- </head>
- <body>  
-    <h1>👋 I'm Phelipe Henrique, AI and Full-stack Web Developer </h1>
+# 👋 Hi, I'm Phelipe Batalha
 
-<hr />
-<ul>
-  <li>💻 Currently mastering Python, HLSL, CG, C++, GDscript, C#, BluePrint, Ruby on Rails and Elixir.</li>
-  <li>✏️ Looking forward to improve my DevOps skills.</li>
-  <li>🤵 Seeking to improve my soft skills day after day.</li>
-  <li>👀 Love to lead good teams and learn new skills.</li>
-  <li>🕹️ I love playing every kind of game (that's why I'm currently doing game development in college).</li>
-  <li>☎️ I'm open to offers and looking for remote opportunities.</li>
-  <li>🌎 Find and contact me around the web:</li>
-</ul>
+**Technology Analyst · AI, Data & Automation · Python Developer**
 
-<ul>
- <li>🔎 Check my <a href= "https://www.linkedin.com/in/phelipebatalha/">LinkedIn profile</a>.</li>
- <li>📫 Contact me via email: <a href="mailto:phelipebatalha@hotmail.com" target=”_blank”>phelipebatalha@hotmail.com</a>.</li>
- <li>🎨 Take a look in <a href="https://www.artstation.com/phelipebatalha" target=”_blank”>Artstation</a>.</li>
- <li>🎮 See my <a href="https://phelipebatalha.itch.io" target="_blank">Games</a>.</li>
- <li>🛠️ See my <a href="https://www.phelipebatalha.com" target="_blank">Portfolio</a>.</li>
- 
-</ul>
-<hr />
+Based in Belo Horizonte, Brazil. I work at the intersection of Artificial Intelligence, data and business transformation, turning business problems into practical, scalable solutions.
 
-<p>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />      
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" />
-           
-</p>
+---
 
-          
+## 🚀 What I do
 
-Most used
+- 🏭 **Technology Analyst, PMO (Costs) at Stellantis**: building AI-powered solutions, management dashboards and Power BI reporting for cost engineering across the vehicle portfolio, and leading AI governance for the PMO area.
+- 🤖 **AI & automation**: LLM-based solutions, rapid prototyping, Python automation, ETL pipelines, API/webhook integrations and CI/CD routines.
+- 🚀 **Co-founder at Uai Studio**: startup selected for the PUC TEC accelerator and PAN. Shipped the IOCO app on Google Play and the App Store, with 100+ active users.
+- 🧑‍🏫 **Mentoring and training**: mentored 32 students in Python automation and backend logic, and train teams on new tools.
 
- </body>
-</html>
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+**Python:** pandas, Selenium, Playwright, Requests, BeautifulSoup, SQLAlchemy, Celery, APScheduler
+**Also:** REST APIs, webhooks, Swagger/OpenAPI, Git, Agile/Scrum
+
+## 🎮 Beyond work
+
+Bachelor's in Programming & Games (PUC Minas) and currently doing a postgraduate degree in AI and Educational Technologies. I also build games with Unity and Godot, and love playing every kind of game.
+
+## 🌎 Find me
+
+- 🔎 [LinkedIn](https://www.linkedin.com/in/phelipebatalha/)
+- 🛠️ [Portfolio](https://www.phelipebatalha.com)
+- 🎮 [Games on itch.io](https://phelipebatalha.itch.io)
+- 🎨 [ArtStation](https://www.artstation.com/phelipebatalha)
+- 📫 [phelipebatalha@hotmail.com](mailto:phelipebatalha@hotmail.com)
