@@ -1,42 +1,64 @@
-# 👋 Hi, I'm Phelipe Batalha
+# Phelipe Batalha
 
-**Technology Analyst · AI, Data & Automation · Python Developer**
+Technology Analyst at Stellantis, working on AI, data and automation.
+I build the pieces that connect business problems to working software:
+LLM-based workflows, Python automation, data pipelines and API integrations.
 
-Based in Belo Horizonte, Brazil. I work at the intersection of Artificial Intelligence, data and business transformation, turning business problems into practical, scalable solutions.
+**Currently**
+- Leading AI governance and building AI-powered solutions for cost engineering across the vehicle portfolio
+- Co-founding [Uai Studio](https://www.phelipebatalha.com), an accelerator-backed startup (PUC TEC, PAN)
+- Postgraduate in AI and Educational Technologies (PUC Minas)
 
 ---
 
-## 🚀 What I do
+## Selected work
 
-- 🏭 **Technology Analyst, PMO (Costs) at Stellantis**: building AI-powered solutions, management dashboards and Power BI reporting for cost engineering across the vehicle portfolio, and leading AI governance for the PMO area.
-- 🤖 **AI & automation**: LLM-based solutions, rapid prototyping, Python automation, ETL pipelines, API/webhook integrations and CI/CD routines.
-- 🚀 **Co-founder at Uai Studio**: startup selected for the PUC TEC accelerator and PAN. Shipped the IOCO app on Google Play and the App Store, with 100+ active users.
-- 🧑‍🏫 **Mentoring and training**: mentored 32 students in Python automation and backend logic, and train teams on new tools.
+| | |
+|---|---|
+| **Cognitive-assessment automation** | Python workflows that cut manual processing time by 85% |
+| **Data pipelines** | Selenium/Requests → validation → PostgreSQL, scheduled with Celery + Redis |
+| **Release automation** | Build/test/release pipelines on GitHub Actions, -40% manual deploy effort |
+| **IOCO app** | Shipped on Google Play and App Store, 100+ active users, +32% satisfaction |
 
-## 🛠️ Stack
+---
 
+## Stack
+
+**Daily**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+**Also worked with**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
 
-**Python:** pandas, Selenium, Playwright, Requests, BeautifulSoup, SQLAlchemy, Celery, APScheduler
-**Also:** REST APIs, webhooks, Swagger/OpenAPI, Git, Agile/Scrum
+**Python ecosystem:** pandas · Selenium · Playwright · Requests · BeautifulSoup · SQLAlchemy · Celery
 
-## 🎮 Beyond work
+**Focus areas**
+- **AI:** LLM workflows · prompt engineering · rapid prototyping · AI governance
+- **Backend:** REST APIs · webhooks · ETL · data connectivity between systems
+- **Delivery:** CI/CD · testing · Agile/Scrum
+- **Data:** SQL · Power BI · management dashboards
 
-Bachelor's in Programming & Games (PUC Minas) and currently doing a postgraduate degree in AI and Educational Technologies. I also build games with Unity and Godot, and love playing every kind of game.
+---
 
-## 🌎 Find me
+## Beyond work
 
-- 🔎 [LinkedIn](https://www.linkedin.com/in/phelipebatalha/)
-- 🛠️ [Portfolio](https://www.phelipebatalha.com)
-- 🎮 [Games on itch.io](https://phelipebatalha.itch.io)
-- 🎨 [ArtStation](https://www.artstation.com/phelipebatalha)
-- 📫 [phelipebatalha@hotmail.com](mailto:phelipebatalha@hotmail.com)
+Bachelor's in Programming & Games (PUC Minas). I also build games with Unity and Godot, and I love playing every kind of game.
+
+---
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/phelipebatalha/) · [Portfolio](https://www.phelipebatalha.com) · [Games on itch.io](https://phelipebatalha.itch.io) · [ArtStation](https://www.artstation.com/phelipebatalha) · [phelipebatalha@hotmail.com](mailto:phelipebatalha@hotmail.com)
